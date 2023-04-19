@@ -1,4 +1,4 @@
-module github.com/coming-chat/go-sui-sdk
+module github.com/chirpwireless/go-sui-sdk
 
 go 1.18
 
