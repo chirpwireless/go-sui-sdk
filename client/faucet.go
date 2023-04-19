@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/coming-chat/go-sui-sdk/v1/types"
+	"github.com/chirpwireless/go-sui-sdk/types"
 	"io"
 	"net/http"
 	"strings"
